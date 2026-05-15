@@ -107,10 +107,10 @@ reputation, not from us paying your API bill.
 - **Partial submissions**: all 100 task ids are required. We do not
   accept "best 80 of 100" submissions; the geometric-spread of the
   task suite is the point.
-- **Multiple trials per task**: optional but encouraged. Manifest
-  reports mean composite across all trials and per-task standard
-  deviation. Single-trial submissions are accepted but flagged in the
-  leaderboard.
+- **Multiple trials per task**: recommended and **flagged on the
+  leaderboard** so readers can distinguish them from the default
+  single-trial submissions. Manifest reports mean composite across
+  all trials and per-task standard deviation either way.
 
 ## Trust model
 
